@@ -62,5 +62,32 @@ Non-functional requirements describe how the system performs its functions. They
 - User data must be encrypted to ensure privacy and security.  
 - The system should be available 99.9% of the time (high availability).  
 - The user interface should be intuitive and accessible on mobile devices.
+## Use Case Diagrams
+
+Use Case Diagrams are visual representations used in Requirement Analysis to show the interactions between users (called actors) and the system. They help illustrate what the system does from the user’s perspective, making it easier to understand requirements and design the system.
+
+**Benefits of Use Case Diagrams:**  
+- Clarify system functionality and user roles  
+- Facilitate communication between stakeholders and developers  
+- Help identify system boundaries and interactions  
+- Support writing detailed use case descriptions  
+
+### Example: Booking Management System Use Case Diagram
+
+The main actors in the booking system include:  
+- **Customer**: Searches properties, makes bookings, cancels bookings.  
+- **Admin**: Manages listings, oversees bookings, handles user issues.  
+- **Payment Gateway**: Processes payments securely.  
+
+The primary use cases are:  
+- Search Properties  
+- Make Booking  
+- Cancel Booking  
+- Manage Listings  
+- Process Payment  
+
+Below is a diagram illustrating these actors and use cases:
+
+![Booking System Use Case Diagram](./alx-booking-uc.png)
 
 

@@ -30,7 +30,16 @@ Requirement Analysis is a vital step in the Software Development Life Cycle (SDL
 
 3. **Reduces Risks and Costs**  
    Identifying issues, missing features, or misunderstandings early in the process reduces costly changes and rework during development and testing phases.
+## Key Activities in Requirement Analysis
 
-Overall, effective Requirement Analysis leads to better planning, smoother development, and a higher chance of delivering software that meets user expectations.
+- **Requirement Gathering:** Collecting initial requirements from stakeholders through interviews, surveys, and observation to understand their needs and expectations.
+
+- **Requirement Elicitation:** Refining and clarifying gathered information by using techniques like brainstorming, workshops, and prototyping to uncover hidden or unstated requirements.
+
+- **Requirement Documentation:** Creating detailed and structured documents such as requirement specifications, use cases, and user stories to clearly communicate the requirements.
+
+- **Requirement Analysis and Modeling:** Analyzing requirements to identify conflicts, overlaps, and dependencies, and representing them visually using models and diagrams (e.g., use case diagrams, data flow diagrams).
+
+- **Requirement Validation:** Reviewing and confirming requirements with stakeholders to ensure accuracy, completeness, and feasibility before development begins.
 
 

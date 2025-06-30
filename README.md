@@ -88,6 +88,6 @@ The primary use cases are:
 
 Below is a diagram illustrating these actors and use cases:
 
-![Booking System Use Case Diagram](./alx-booking-uc.png)
+alx-booking-uc.png
 
 

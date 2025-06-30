@@ -89,5 +89,30 @@ The primary use cases are:
 Below is a diagram illustrating these actors and use cases:
 
 alx-booking-uc.png
+## Acceptance Criteria
+
+**Acceptance Criteria** are the conditions that a software feature must meet to be accepted by stakeholders, such as clients, users, or product owners. They help define what "done" means for a feature and ensure the feature meets both business goals and user needs.
+
+### Importance of Acceptance Criteria in Requirement Analysis
+
+- ✅ **Clarifies expectations:** Sets clear standards for success so the development team knows what is required.
+- 🔄 **Improves communication:** Ensures developers, testers, and stakeholders are aligned.
+- 🧪 **Enables testing:** Helps QA teams verify whether the feature works as intended.
+- 🚫 **Prevents scope creep:** Limits misunderstandings and changes late in the project.
+
+### Example: Acceptance Criteria for the *Checkout* Feature
+
+**Feature:** Checkout
+
+**Acceptance Criteria:**
+
+- The user must be logged in to complete a booking.
+- The system should display a booking summary before final confirmation.
+- Users can select a payment method (credit card, mobile money, etc.).
+- Payment must be processed securely via the integrated payment gateway.
+- A confirmation message must be shown after successful booking.
+- A booking confirmation email is sent to the user within 2 minutes.
+
+Each of these criteria must be fulfilled for the feature to be considered complete and ready for release.
 
 
